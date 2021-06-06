@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Mian_Qiu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi,this is Mian_Qiu
 
-<!---
-MianQiu1294/MianQiu1294 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+擅长方向:html5+css3+js.
+
+我的个人主页兼Minecraft游戏服务器官网: http://hopewhencold.club.
+
+*“我每数一颗星星便呼唤一句美丽的话语。”*
